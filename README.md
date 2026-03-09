@@ -1,4 +1,4 @@
-The following is the link for the dataset used
+The following is the link for the dataset used:
 https://www.kaggle.com/datasets/samuelcortinhas/time-series-practice-dataset?resource=download
 
 This dataset consists of date, store, product and number_sold indicating sales for different stores and products. Here our task is now to define a threshold so we can define an incident.
